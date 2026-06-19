@@ -1,0 +1,101 @@
+{
+  "tables": [
+    {
+      "rows": [
+        [
+          "Purpose",
+          "Type of Data",
+          "Legal Basis"
+        ],
+        [
+          "To provide, maintain and facilitate any products and services offered to you with respect to your Anthropic account, which are governed by our Terms of Service",
+          "Identity and Contact Data\nPayment Information\nFeedback\nInputs and Outputs\nTechnical Information",
+          "Contract"
+        ],
+        [
+          "To provide, maintain and facilitate optional services and features that enhance platform functionality and user experience",
+          "Identity and Contact Data\nFeedback\nInputs and Outputs\nTechnical Information",
+          "Consent (for example for precise device location or for health app integrations)\nLegitimate interests\nIt is in our and our users' legitimate interests to expand our product features and deliver additional services that enhance platform functionality and user experience."
+        ],
+        [
+          "To communicate with you and to promote our Services",
+          "Identity and Contact Data\nCommunication Information\nTechnical Information",
+          "Where necessary to perform a contract with you, such as processing your contact information to send you a technical announcement about the Services.\nYour consent when we ask for it to process your personal data for a specific purpose that we communicate to you, such as processing your contact information to send you certain forms of marketing communications.\nLegitimate Interests\nIt is in our legitimate interests to promote our Services and to send direct marketing."
+        ],
+        [
+          "To create and administer your Anthropic account",
+          "Identity and Contact Data\nPayment Information\nFeedback",
+          "Contract"
+        ],
+        [
+          "To facilitate payments for products and services provided by Anthropic",
+          "Identity and Contact Data\nPayment Information",
+          "Contract"
+        ],
+        [
+          "To prevent and investigate fraud, abuse, and violations of our Usage Policy, unlawful or criminal activity, unauthorized access to or use of personal data or Anthropic systems and networks, to protect our rights and the rights of others, and to meet legal, governmental and institutional policy obligations",
+          "Identity and Contact Data\nPayment Information\nInputs and Outputs\nTechnical Information",
+          "Legitimate interests\nLegal obligation\nIt is in our legitimate interests to protect our business, employees and users from illegal activities, inappropriate behavior or violations of terms that would be detrimental. We also have a duty to cooperate with authorities."
+        ],
+        [
+          "To investigate and resolve disputes",
+          "Identity and Contact Data\nInputs and Outputs\nFeedback",
+          "Legitimate interests\nLegal obligation\nIt is in our legitimate interests to fully understand and make reasonable efforts to resolve customer complaints in order to improve user satisfaction. We also have a legal obligation in some cases."
+        ],
+        [
+          "To investigate and resolve security issues",
+          "Identity and Contact Data\nFeedback\nTechnical Information\nInputs and Outputs",
+          "Legal obligation\nLegitimate interests\nIt is in our legitimate interests to protect user data and our systems from intrusion or compromise through monitoring and swift response. We also have a legal obligation to provide adequate security safeguards."
+        ],
+        [
+          "To debug and to identify and repair errors that impair existing functionality",
+          "Identity and Contact Data\nFeedback\nTechnical Information",
+          "Legitimate interests\nIt is in our legitimate interests to maintain continuous functioning of our services and rapid correction of problems to ensure a positive user experience that encourages engagement."
+        ],
+        [
+          "To improve the Services and conduct research (excluding model training)",
+          "Identity and Contact Data\nFeedback\nTechnical Information\nInputs and Outputs",
+          "Legitimate interests\nIt is in our legitimate interests and in the interest of Anthropic users to evaluate the use of the Services and adoption of new features to inform the development of future features and improve direction and development of the Services. Our research also benefits the AI industry and society: it investigates the safety, inner workings, and societal impact of AI models so that artificial intelligence has a positive impact on society as it becomes increasingly advanced and capable."
+        ],
+        [
+          "To improve the Services and conduct research (including model training). See our Non-User Privacy Policy for more details on the data used to train our models.",
+          "Feedback\nInputs and Outputs\nData provided through the Development Partner Program",
+          "Consent (when users submit Feedback)\nLegitimate interests\nIt is in our legitimate interests and in the interest of Anthropic users to evaluate the use of the Services and adoption of new features to inform the development of future features and improve direction and development of the Services. Our research also benefits the AI industry and society: it investigates the safety, inner workings, and societal impact of AI models so that artificial intelligence has a positive impact on society as it becomes increasingly advanced and capable."
+        ],
+        [
+          "To enforce our Terms of Service and similar terms and agreements, including our Usage Policy.",
+          "Identity and Contact Data\nInputs and Outputs\nTechnical Information",
+          "Contract\nLegitimate interests\nIn certain circumstances outside of the performance of our contract with you, we may rely on legitimate interests. It is in our legitimate interests to enforce the rules and policies governing use of our services, to maintain intended functionality and value for users. We aim to provide a safe, useful platform."
+        ]
+      ]
+    },
+    {
+      "rows": [
+        [
+          "Trustees and Contacts",
+          "Bae, Kim & Lee LLC (02-3404-0001)"
+        ],
+        [
+          "Entrusted Data",
+          "Name, ID, phone number, email, address, and other information that you may provide to the domestic representative"
+        ],
+        [
+          "Purpose",
+          "Assisting with the domestic representative duties"
+        ],
+        [
+          "Recipient Location",
+          "South Korea"
+        ],
+        [
+          "Retention period",
+          "The period necessary to process your request"
+        ],
+        [
+          "Times and methods of transfer",
+          "Telephone, text, or email"
+        ]
+      ]
+    }
+  ]
+}

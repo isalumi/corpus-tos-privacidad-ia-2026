@@ -1,0 +1,18 @@
+{
+  "tables": [
+    {
+      "rows": [
+        [
+          "Category of Personal Data",
+          "Use of Personal Data",
+          "Disclosure of Personal Data"
+        ],
+        [
+          "We collect the following information, as described above:\n\nIdentifiers, such as your name, contact details, IP address, and other device identifiers\nCommercial information, such as your transaction history\nNetwork activity information, such as how you interact with our Services, including Log Data, Usage Data, and information about the device you use to access the Services\nContent, including your prompts and content you upload to the Services and interactions and messages with other users\nCommunication Information, such as your contact information when you send us email\nContact Data if you choose to connect your device contacts\nGeolocation data, such as the general area from which your device accesses our Services based on information like its IP address, or precise location information you choose to provide\nOther Account Information, such as your account credentials, and payment information, date of birth, and profile picture\nOther Information You Provide, such as if you choose to participate in our events or surveys or when you provide us or a vendor operating on our behalf with information to establish your identity or age.",
+          "We use this information for the following purposes, as described above:\n\nProvide, analyze, and maintain our Services\nImprove and develop our Services and conduct research, including using your Content to train our models (subject to your control)\nTo personalize and customize your experience across our Services\nFor Free and Go users, subject to your controls, to personalize the ads you see on our Services and measure the effectiveness of ads shown on our Services. Learn more.\nCommunicate with you, including to respond to your questions, and send you information about our Services and events, for example about changes or improvements to the Services or offers or information that may interest you\nTo identify your contacts who use our Services when you choose to connect your contacts and update you if they join our Services later.\nPrevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services, including by monitoring any Content submitted or exchanged on our platforms (learn more here)\nComply with legal obligations and protect the rights, privacy, safety, or property of our users, OpenAI, or third parties, for instance to prevent harm to you or others, and to estimate your age to give you an age-appropriate experience",
+          "We may disclose this information in the following circumstances, as described above:\n\nVendors, service providers, and affiliates to assist us in meeting business operations needs and to perform certain services and functions described above\nGovernment authorities or other third parties for the legal reasons described above\nParties involved in Transactions\nBusiness account administrators for the reasons described above\nParents or guardians of teen users for account linking purposes described above\nOther users and third parties you interact or share information with"
+        ]
+      ]
+    }
+  ]
+}

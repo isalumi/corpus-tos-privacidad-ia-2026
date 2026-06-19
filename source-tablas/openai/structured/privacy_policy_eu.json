@@ -1,0 +1,48 @@
+{
+  "tables": [
+    {
+      "rows": [
+        [
+          "Purpose of processing",
+          "Type of Personal Data processed, depending on the processing activity",
+          "Legal basis, depending on the process activity"
+        ],
+        [
+          "To provide, analyse, and maintain our Services\n\nFor example,\n\nWe use your email address and password to authenticate your login.\nWe use your payment card details to process subscription charges or purchases on ChatGPT.\nWe use your prompts and other Content to provide you with responses.\nWe conduct analytics, measurement, and other types of analysis to understand how our Services are used, for example, we analyze usage data to ensure uptime and the reliability and safety of our Services.",
+          "Account Information\nUser Content\nCommunication Information\nOther Information You Provide\nLog Data\nUsage Data\nDevice Information\nLocation Information\nCookies and Similar Technologies",
+          "Where necessary to perform a contract with you, such as processing your  prompts and other Content to provide a response."
+        ],
+        [
+          "To personalise and customise your experience across our Services for you.\n\nFor example,\n\nIf Memory is on, we may remember details you’ve shared across conversations to provide more personalised and consistent responses in future chats.\nUsing information you add in Custom Instructions (such as “I like concise answers”) to tailor how the model responds to you.\nSuggesting conversation topics based on subjects you’ve previously discussed or saved in your Memory\nTailoring recommendations for Sora videos that may be relevant to you.\nTo give you an age-appropriate experience.",
+          "Account Information\nUser Content\nOther Information You Provide\nLog Data\nUsage Data\nDevice Information\nLocation Information\nCookies and Similar Technologies",
+          "Where necessary to perform a contract with you, such as following your Custom Instructions to respond to your prompts.\n\nWhere necessary for our legitimate interests and those of third parties to provide you with a better user experience. For example, to personalise features and content or make suggestions for topics that you may be interested in.\n\nWhere necessary to comply with a legal obligation (or, where not under a specific legal obligation, where necessary for our legitimate interests and those of third parties), such as to provide you with an age-appropriate experience."
+        ],
+        [
+          "To improve and develop our Services, and conduct research\n\nFor example, \n\nIf training is enabled (see your data controls here) or if you provide feedback, we use the content you share with us to help our models become more accurate and better at solving your specific problems and help improve their general capabilities and safety.\nWe use publicly available content that is freely and openly accessible on the internet, as well as data from third-party partners, to train our models.",
+          "Account Information\nUser Content\nCommunication Information\nOther Information You Provide\nInformation We Receive From Other Sources\nLog Data\nUsage Data\nDevice Information\nCookies and Similar Technologies",
+          "Where necessary for our legitimate interests and those of third parties and broader society, including in developing and improving our Services, such as when we train and improve our models for everyone. See here⁠\n(opens in a new window)\n for more information."
+        ],
+        [
+          "To communicate with you, including to send you information about our Services and events, and to promote our Services to you.\n\nSending updates about feature changes or outages.\nSending certain forms of marketing communications.\nResponding to a request you send through the Help Center.\nSending surveys to ask for feedback or input about our products and services.",
+          "Account Information\nCommunication Information\nInformation We Receive From Other Sources\nOther Information You Provide\nLog Data\nUsage Data\nDevice Information\nCookies and Similar Technologies",
+          "Where necessary to perform a contract with you, such as processing your contact information to send you a technical announcement about the Services. \n\nYour consent when we ask for it to process your Personal Data for a specific purpose that we communicate to you, such as processing your contact information to send you certain forms of marketing communications.\n\nWhere necessary for our legitimate interests and those of third parties, for example when sending surveys to ask for feedback."
+        ],
+        [
+          "To identify your contacts who use our Services when you choose to connect your contacts, and to update you if they join our Services later.",
+          "Contact Data\nLog Data\nDevice Information",
+          "Where necessary to perform a contract with you when you choose to connect your contacts on our Services.\n\nWhere necessary for our legitimate interests and those of third parties, to enable you to connect your contacts and collaborate with people you may know on our Services."
+        ],
+        [
+          "To prevent fraud, illegal activity, or misuses of our Services, and to protect the security of our systems and Services\n\nFor example, \n\nMonitoring for suspicious sign-in attempts or unusual activity on your account.\nUsing IP addresses and device identifiers to detect abuse.\nRetaining information about accounts that violate policies.",
+          "Account Information\nUser Content\nCommunication Information\nOther Information You Provide\nInformation We Receive From Other Sources\nLog Data\nUsage Data\nDevice Information\nCookies and Similar Technologies",
+          "Where necessary to comply with a legal obligation.\n\nWhere we are not under a specific legal obligation, where necessary for our legitimate interests and those of third parties, including in protecting our Services from abuse, fraud, or security risks, such as processing data from trusted partners to protect against fraud, abuse and security threats in our Services."
+        ],
+        [
+          "To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, OpenAI, or third parties\n\nFor example, \n\nRetaining billing information to comply with financial requirements.\nProviding information to law enforcement when required by a valid legal request.\nInvestigating and enforcing violations of our Terms of Use, including by monitoring content submitted or exchanged on our platforms (learn more here).\nTaking steps to prevent harm, for example notifying parents/guardians or authorities when we detect a risk of harm to teen users with linked accounts.\nEstimating your age to give you an age-appropriate experience.",
+          "Account Information\nUser Content\nCommunication Information\nOther Information You Provide\nInformation We Receive From Other Sources\nLog Data\nUsage Data\nDevice Information\nCookies and Similar Technologies",
+          "Where necessary to comply with a legal obligation, such as retaining billing information to comply with financial requirements.\n\nWhere we are not under a specific legal obligation, where necessary for our legitimate interests and those of third parties and broader society, including in protecting our or our affiliates’, users’, or third parties’ rights, safety, and property, such as analyzing log data to identify fraud and abuse in our Services.\n\nWhen necessary to protect the vital interests of you or another person, for example when teen safety alerts are triggered."
+        ]
+      ]
+    }
+  ]
+}
