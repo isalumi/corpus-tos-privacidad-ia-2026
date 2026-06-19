@@ -126,18 +126,3 @@ En `evidencias/` se incluyen **dos** ficheros, con funciones distintas:
 
 El corpus refleja el estado de cada documento **en su fecha de captura**. Anthropic y OpenAI modifican sus términos de servicio y políticas de privacidad con relativa frecuencia, por lo que el contenido archivado puede no coincidir con la versión vigente en el momento de la consulta. Esa es, precisamente, la razón de ser de este repositorio: ofrecer una referencia estable y verificable del régimen documental analizado en el TFM.
 
----
-
-## Derechos y licencia
-
-- **Documentos capturados de terceros** (carpeta `fuentes/`): los términos de servicio, políticas de privacidad, páginas de precios, preguntas frecuentes y entradas de blog son propiedad de **Anthropic** y **OpenAI**, respectivamente, y conservan su copyright original. Se reproducen aquí, sin ánimo de lucro y de forma íntegra, **con fines exclusivos de investigación académica, verificación y archivo**, como soporte documental del TFM. Todos los derechos pertenecen a sus titulares.
-
-
-- [ ] Título del TFM
-- [ ] Nombre y correo de la autora
-- [ ] Nombre del máster
-- [ ] Nombre definitivo del repositorio
-- [ ] DOI / URL (si usas Zenodo u OSF)
-- [ ] Colocar los archivos del corpus en `fuentes/` y ejecutar `generar_manifiesto_hashes.py`
-- [ ] Añadir el archivo `LICENSE` (CC BY 4.0)
-- [ ] Sustituir `[URL del repositorio]` en el TFM por la URL/DOI real
