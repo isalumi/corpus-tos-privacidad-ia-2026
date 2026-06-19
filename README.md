@@ -14,38 +14,6 @@ Contiene los materiales que dan soporte empírico y verificable al trabajo:
 El objetivo es garantizar la **verificabilidad** y el **valor de archivo** del estudio: dado que las páginas analizadas son dinámicas y cambian sin previo aviso, este repositorio «congela» la versión efectivamente consultada y documenta cómo se obtuvo.
 
 
----
-
-## Estructura del repositorio
-
-```
-.
-├── README.md                              ← este archivo
-├── LICENSE                                ← licencia de la documentación propia (ver "Derechos y licencia")
-├── SHA256SUMS.txt                         ← (generado) huellas en formato estándar, verificable con sha256sum
-├── generar_manifiesto_hashes.py           ← utilidad para calcular y rellenar los hashes
-├── evidencias/
-│   └── evidencias_citadas_en_tablas.md   ← solo las citadas en las tablas del TFM ([E]/[G])
-└── fuentes/
-    ├── anthropic/
-    │   ├── consumer_terms/
-    │   │   ├── consumer_terms.html         ← copia capturada (original)
-    │   │   ├── consumer_terms.md           ← versión en Markdown (derivada, para el análisis)
-    │   │   └── consumer_terms.pdf          ← copia legible "congelada"
-    │   ├── privacy_policy/
-    │   ├── pc_con_10023548/
-    │   ├── pc_con_10023580/
-    │   ├── pricing/
-    │   └── blog_consumer_update/
-    └── openai/
-        ├── privacy_policy_eu/
-        ├── terms_of_use_eu/
-        ├── privacy_policy_us/
-        ├── help_5722486/
-        ├── pricing/
-        └── transparency_moderation/
-```
-
 
 ---
 
